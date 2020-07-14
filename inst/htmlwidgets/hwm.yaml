@@ -1,0 +1,8 @@
+dependencies:
+  - name: hwm
+    version: 1.0.0
+    src: htmlwidgets/lib/hwm
+    script: hwm.js
+    stylesheet: hwm.css
+    
+
